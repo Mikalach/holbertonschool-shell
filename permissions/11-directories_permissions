@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod da+r
+chmod a+x permissions
