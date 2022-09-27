@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d C,c -f3
+tr -d '[Cc]'
